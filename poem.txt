@@ -4,4 +4,5 @@ Blue
 Indigo
 Green
 Blue
+Orange
 These are colours of rainbow
