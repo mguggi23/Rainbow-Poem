@@ -7,5 +7,6 @@ Blue
 Orange
 Indigo
 unicorn
+black
 These are colours of rainbow
 And the unicorn branch.
